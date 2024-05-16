@@ -1,0 +1,8 @@
+# ignore node modules.
+node_modules
+
+# vs code
+.vscode
+
+# build files
+build
