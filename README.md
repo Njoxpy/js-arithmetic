@@ -17,7 +17,7 @@
 To use this library in your project, you can clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/arithmetic-operations.git
+git clone https://github.com/Njoxpy/js-arithmetic
 ```
 
 ```sh
@@ -34,7 +34,7 @@ npm install
 - You can use the functions by importing them into your JavaScript file.
 
 ```js
-const { add, subtract, multiply, divide } = require();
+const { add, subtract, multiply, divide } = require("../src/");
 
 // Example usage
 console.log(addition(2, 3)); // 5
