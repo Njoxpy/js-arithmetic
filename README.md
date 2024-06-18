@@ -34,7 +34,7 @@ npm install
 - You can use the functions by importing them into your JavaScript file.
 
 ```js
-const { add, subtract, multiply, divide } = require();
+const { add, subtract, multiply, divide } = require("../src/");
 
 // Example usage
 console.log(addition(2, 3)); // 5
