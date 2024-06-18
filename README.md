@@ -17,7 +17,7 @@
 To use this library in your project, you can clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/arithmetic-operations.git
+git clone https://github.com/Njoxpy/js-arithmetic
 ```
 
 ```sh
